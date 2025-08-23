@@ -36,7 +36,6 @@
 
 <a href="https://github.com/HyerinLee">
   <img src="https://github-readme-stats.vercel.app/api?username=reframing&show_icons=true&theme=dark&count_private=true&hide_border=true">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reframing&layout=compact&hide_title=true&hide_border=true&theme=dark">
 </a>
